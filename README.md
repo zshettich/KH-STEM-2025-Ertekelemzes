@@ -16,11 +16,11 @@ A kutatás célja a klasszikus Értékelemzés (Value Analysis - VA) módszertan
 * **Funkcióelemzés:** A FAST-diagram logikai felépítésének automatizált támogatása.
 
 ## Tartalom
-A repository-ban található **`VA_Optimalizálás_Mesterséges_Intelligenciával.pdf`** a pályázat teljes, 40 oldalas háttérdokumentációja, amely tartalmazza:
-* A részletes mérési jegyzőkönyveket.
-* Az egyes MI modellekkel generált összehasonlító táblázatokat.
-* A generált FAST-diagram kódokat.
-* A kidolgozott "Szerkesztési előírást" mérnöki dokumentációkhoz.
+A repository-ban található fájlok:
+
+VA_Optimalizálás_Mesterséges_Intelligenciával.pdf: A pályázat teljes háttérdokumentációja, amely tartalmazza a részletes mérési eredményeket, az összehasonlító táblázatokat és a szerkesztési előírásokat.
+
+VA_Optimalizálás_Mesterséges_Intelligenciával.pptx: A projekt eredményeit bemutató vezetői összefoglaló prezentáció.
 
 ## Szerzők
 **Dunaújvárosi Egyetem**
